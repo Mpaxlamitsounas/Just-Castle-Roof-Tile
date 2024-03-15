@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "jcrt",
+    "name": "Just Castle Roof Tile",
+    "description": "Provides just the castle roof tile block from twilight forest.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "mpaxlamitsounas"
+    ],
+    "credits": "Thanks to the Twilight Forest team for creating the texture.",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
