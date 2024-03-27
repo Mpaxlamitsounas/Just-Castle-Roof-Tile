@@ -1,9 +1,10 @@
 package men.mpaxlamitsounas.jcrt;
 
-import men.mpaxlamitsounas.jcrt.blocks.CastleRoofTile;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
+
+import men.mpaxlamitsounas.jcrt.blocks.CastleRoofTile;
 
 public class ModBlocks {
 
