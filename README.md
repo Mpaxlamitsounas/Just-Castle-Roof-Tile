@@ -3,6 +3,7 @@ Just Castle Roof Tile
 
 Simple mod for the "Castle Roof Tile" block from the Twilight Forest. Yup, just that.
 
+[Available on curseforge](https://www.curseforge.com/minecraft/mc-mods/just-castle-roof-tile)
 
 LICENSE
 --
